@@ -14,7 +14,7 @@
 
 int	check_item(char pos, char item)
 {
-	if (pos == item)
+	if (pos == item)fwefwefwefwefwefwefwfe
 		return (EXIT_SUCCESS);
 	else
 		return (EXIT_FAILURE);
